@@ -1,0 +1,19 @@
+.caculator{
+    background-color:#1abc9c;
+    width: 50%;
+}
+.form-group {
+    margin-bottom: 0;
+}
+.form-control{
+    border-radius: 0;
+}
+input{
+    text-align: end;
+}
+.btn{
+    width: 100%;
+    border-radius: 1px;
+    height: 55px;
+    
+}
